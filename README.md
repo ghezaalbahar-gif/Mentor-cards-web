@@ -25,4 +25,4 @@ A simple and responsive mentor cards website built with **HTML and CSS**. It sho
 
 ## Author
 
-**Ghezaal Bahar**
+**Ghezaal Bahar Faqiri**
